@@ -29,5 +29,5 @@ I love creating eye-catching designs and funtional applications that address rea
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/Alexanderer159/Alexanderer159/Update/svg/Bottom.svg"/>
+        <img src="https://raw.githubusercontent.com/Alexanderer159/Alexanderer159/Bottom.svg"/>
 </p>
