@@ -1,6 +1,6 @@
 # 🖥️Alejandro De Yavorsky🖥️
 <br>
-## Full-Stack Developer | JavaScript | React | Python | APIs | SQL 
+# Full-Stack Developer | JavaScript | React | Python | APIs | SQL 
 <br>
 📍Alcoi, Alicante, Spain
 <br>
@@ -12,7 +12,7 @@
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexanderer159&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-## Profile
+# Profile
 <br>
 Full-Stack developer with knowledge in React, JavaScript, Python, HTML & CSS (I love CSS). 
 CI/CD Oriented and focused on troubleshooting / continuous learning while in teamwork.
