@@ -20,14 +20,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexanderer159&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align="center">Profile</h2>
+<h2 align="center">🫡Profile</h2>
 
 Full-Stack developer with knowledge in React, JavaScript, Python, HTML & CSS (I love CSS). 
 CI/CD Oriented and focused on troubleshooting / continuous learning while in teamwork.
 
 I love creating eye-catching designs and funtional applications that address real-life issues!
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">🤖 Technologies</h2>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,vite,npm,jest,bootstrap,tailwindcss,api,postman,git,vscode,netlify,render,jira)
 
