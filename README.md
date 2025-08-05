@@ -1,8 +1,8 @@
 <h1>🖥️Alejandro De Yavorsky🖥️</h1>
 
-Full-Stack Developer | JavaScript | React | Python | APIs | SQL 
+<h2>Full-Stack Developer | JavaScript | React | Python | APIs | SQL </h2> 
 
-📍Alcoi, Alicante, Spain
+<h3>📍Alcoi, Alicante, Spain </h3>
 
 ![Alexanderer159's Stats](https://github-readme-stats.vercel.app/api?username=Alexanderer159&theme=react&show_icons=true&hide_border=true&count_private=true)
 
@@ -12,9 +12,17 @@ Full-Stack Developer | JavaScript | React | Python | APIs | SQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexanderer159&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-Profile
+<h2>Profile</h2>
 
 Full-Stack developer with knowledge in React, JavaScript, Python, HTML & CSS (I love CSS). 
 CI/CD Oriented and focused on troubleshooting / continuous learning while in teamwork.
 
 I love creating eye-catching designs and funtional applications that address real-life issues!
+
+<h2>Technologies</h2>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vite,npm,jest)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss)\
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=api,postman,git,github,vscode)\
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel,render)
