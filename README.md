@@ -21,8 +21,7 @@
 
 <h2 align="center">🫡Profile</h2>
 
-Full-Stack developer with knowledge in React, JavaScript, Python, HTML & CSS (I love CSS). 
-CI/CD Oriented and focused on troubleshooting / continuous learning while in teamwork.
+Full-Stack developer with experience in JavaScript, React, Python and SQL. CI/CD oriented and focused on troubleshooting. Committed with continuous learning, teamwork and collaboration.
 
 I love creating eye-catching designs and funtional applications that address real-life issues!
 
