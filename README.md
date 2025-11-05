@@ -1,8 +1,8 @@
 <h1 align="center">🖥️Alejandro De Yavorsky🖥️</h1>
 
-<h2 align="center">Full-Stack Developer | JavaScript | React | Python | APIs | SQL </h2> 
+<h2 align="center">Web Developer | JavaScript | React | Python | Cypress | SQL </h2> 
 
-<h3>📍Alcoi, Alicante, Spain </h3>
+<h3>📍Alicante, Spain </h3>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/Alexanderer159/Alexanderer159/42c76707fcff1cccc5dd7792d20ff316030a1776/Top.svg">
@@ -21,13 +21,13 @@
 
 <h2 align="center">🫡Profile</h2>
 
-Full-Stack developer with experience in JavaScript, React, Python and SQL. CI/CD oriented and focused on troubleshooting. Committed with continuous learning, teamwork and collaboration.
+Web developer and QA Tester with experience in JavaScript, React, Python and Cypress. Committed with continuous learning, teamwork and collaboration.
 
-I love creating eye-catching designs and funtional applications that address real-life issues!
+I love creating eye-catching designs and funtional applications that address real-life needs!
 
 <h2 align="center">🤖 Technologies</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,vite,npm,jest,bootstrap,tailwindcss,api,postman,git,vscode,netlify,render,jira)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,vite,npm,jest,bootstrap,tailwindcss,api,postman,git,vscode,netlify,render,jira,cypress)
 
 
 <p align="center">
