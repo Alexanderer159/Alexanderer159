@@ -2,7 +2,7 @@
 
 <h2 align="center">Web Developer | JavaScript | React | Python | Cypress | SQL </h2> 
 
-<h3>📍Alicante, Spain </h3>
+<h3>📍Valencian Community, Spain </h3>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/Alexanderer159/Alexanderer159/42c76707fcff1cccc5dd7792d20ff316030a1776/Top.svg">
