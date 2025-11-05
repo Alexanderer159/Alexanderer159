@@ -27,7 +27,7 @@ I love creating eye-catching designs and funtional applications that address rea
 
 <h2 align="center">🤖 Technologies</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,vite,npm,jest,bootstrap,tailwindcss,api,postman,git,vscode,netlify,render,jira,cypress)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,cypress,vite,npm,bootstrap,postman,vscode,netlify,render,jira)
 
 
 <p align="center">
