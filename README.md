@@ -1,6 +1,6 @@
 <h1 align="center">🖥️Alejandro De Yavorsky🖥️</h1>
 
-<h2 align="center">Web Developer | JavaScript | React | Python | Cypress | SQL </h2> 
+<h2 align="center">Full-Stack Developer | QA Tester | JavaScript | React | Python | Cypress | SQL </h2> 
 
 <h3>📍Valencian Community, Spain </h3>
 
