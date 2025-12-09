@@ -8,17 +8,6 @@
         <img src="https://raw.githubusercontent.com/Alexanderer159/Alexanderer159/42c76707fcff1cccc5dd7792d20ff316030a1776/Top.svg">
 </p>
 
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Alexanderer159&theme=react&show_icons=true&hide_border=true&count_private=true">
-</p>
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexanderer159&theme=react&show_icons=true&hide_border=true&layout=compact">
-</p>
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Alexanderer159&theme=algolia)
-
-
 <h2 align="center">🫡Profile</h2>
 
 Web developer and QA Tester with experience in JavaScript, React, Python and Cypress. Committed with continuous learning, teamwork and collaboration.
