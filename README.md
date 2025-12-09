@@ -8,7 +8,7 @@
         <img src="https://raw.githubusercontent.com/Alexanderer159/Alexanderer159/42c76707fcff1cccc5dd7792d20ff316030a1776/Top.svg">
 </p>
 
-<h2 align="center">🫡Profile</h2>
+<h1 align="center">🫡Profile</h1>
 
 Web developer and QA Tester with experience in JavaScript, React, Python and Cypress. Committed with continuous learning, teamwork and collaboration.
 
