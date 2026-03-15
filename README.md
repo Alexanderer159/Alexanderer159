@@ -1,6 +1,6 @@
 <h1 align="center">🖥️Alejandro De Yavorsky🖥️</h1>
 
-<h2 align="center">Full-Stack Developer | QA Tester | JavaScript | React | Python | Cypress | SQL </h2> 
+<h2 align="center">Full-Stack Developer | React.js | JavaScript | Node.js | Python | MongoDB </h2> 
 
 <h3>📍Valencian Community, Spain </h3>
 
@@ -10,13 +10,11 @@
 
 <h1 align="center">🫡Profile</h1>
 
-Web developer and QA Tester with experience in JavaScript, React, Python and Cypress. Committed with continuous learning, teamwork and collaboration.
-
-I love creating eye-catching designs and funtional applications that address real-life needs!
+React.js Software developer with over 3+ years of experience, focused on product development with additional experience in QA automation. Build fully functional, visually polished applications that combine technical rigor with user-focused design. Work effectively in Agile environments, improving development pipelines and collaborating across teams. Apply SOLID principles to keep codebases clean, maintainable, and extensible.
 
 <h2 align="center">🤖 Technologies</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,cypress,python,vite,npm,bootstrap,postman,vscode,netlify,render,jira)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,next,cypress,python,vite,npm,bootstrap,postman,vscode,netlify,render,jira)
 
 
 <p align="center">
